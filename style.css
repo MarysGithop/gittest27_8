@@ -1,7 +1,9 @@
-.h1 {
-    margin: 0;
-    padding: 0;
-    background-color: black;
-    color: white;
+body {
+  background-color: black;
+}
 
+h1 {
+  margin: 0;
+  padding: 0;
+  color: white;
 }
